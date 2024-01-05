@@ -168,7 +168,6 @@ footer .row .col-md-3 p:hover{
 
 /* media query */
 
-
 @media (max-width: 576px) {
     .first .col-md-6 h1{
         font-size: 40px;
